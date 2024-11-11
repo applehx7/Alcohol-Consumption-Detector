@@ -27,4 +27,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Contact
 
-Feel free to reach out if you have any questions or suggestions. You can contact me via [Your GitHub](https://github.com/applehx7).
+Feel free to reach out if you have any questions or suggestions. You can contact me via [GitHub](https://github.com/applehx7).
